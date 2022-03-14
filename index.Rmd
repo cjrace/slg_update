@@ -10,71 +10,67 @@ output:
 
 layout: true
 
-# EES Analytics (as at 12th December)
+# EES Analytics (as at 13th March)
 
 ---
 
-172 releases from 61 statistical publications
+Some text
 
 --
 
-Publication type breakdown:
-
-???
-
-Won't add up as some publications have releases of multiple types and are represented more than once
-
---
-
-- 26 national statistics
-
---
-
-- 31 official statistics
-
---
-
-- 0 experimental statistics
-
-???
-
-Though we do have some in sections within current official statistics
-
---
-
-- 10 ad hoc statistics
-
---
-
-- 1 management information
-
-???
-
-We're not the default for MI, but can publish where it makes sense to join up, like having the CO2 monitors with the other COVID stats
+Some more text
 
 ---
 
-Passed 500k 'unique' users
+layout: true
 
-???
+# EES planned work
 
-Big milestone
+---
 
-Caveat that this is based on GA, and if I've used my phone, my personal laptop and work laptop I could count as 3
-
---
-
-Closing in on 1 million sessions (955k currently)
+Ability to archive publications
 
 --
 
-`r knitr::include_graphics("images/sessions_over_time.png")`
+Fixing map boundaries and recovering old maps
 
-???
+--
 
-Floating at around 3,500/4,000 sessions per weekday, dropping to around 1, 1 and a half thousand sessions a day at weekends
+Locking content editor when in use
 
-Use of the platform is steadily increasing
+--
+
+Migrating databases to use IDs for locations to handle duplicate names / codes
+
+---
+
+layout: true
+
+# EES upcoming work
+
+---
+
+Add methodology view into pre-release
+
+--
+
+Ability to have filters spread across multiple steps in the table tool
+
+--
+
+Customising order of indicators and filter options in table tool
+
+--
+
+Improvements to admin system user journey
+
+--
+
+User testing on find statistics prototype
+
+--
+
+Public API initial version
 
 ---
 
@@ -145,23 +141,26 @@ Though we should be championing RAP in everything
 
 --
 
-- 9 publications completed all of good
-
---
-
-- 4 publications completed all of great
+<br>
+No more publications have reached good or great practice since last time
 
 --
 
 <br>
-
-56.56 % of all steps to good and great completed
+58.07 % of all steps to good and great completed, marginally up from 56.56 % in December
 
 --
 
 <br>
+Teams need to be actively using the self-assessment tool
 
-Review of best practice, aiming to set clear end point in new year
+???
+
+Gives analysts a clear guide for implementing RAP in achievable steps
+
+Gives senior leaders sight and a high level understanding of progress
+
+Allows HoP and CSSU to target support where needed
 
 ---
 
@@ -176,6 +175,10 @@ Self-assessment app - https://rsconnect/rsc/publication-self-assessment/
 layout: true
 class: center, middle
 
-# Contact - statistics.development@education.gov.uk
+Self-assessment app - https://rsconnect/rsc/publication-self-assessment/
+
+Guidance - https://rsconnect/rsc/stats-production-guidance/rap.html
+
+Questions or support - statistics.development@education.gov.uk
 
 ---
