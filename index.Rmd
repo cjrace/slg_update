@@ -10,25 +10,13 @@ output:
 
 layout: true
 
-# EES Analytics (as at 13th March)
-
----
-
-Some text
-
---
-
-Some more text
-
----
-
-layout: true
-
 # EES planned work
 
 ---
 
-Ability to archive publications
+--
+
+Ability to archive (and supersede) publications
 
 --
 
@@ -41,6 +29,14 @@ Locking content editor when in use
 --
 
 Migrating databases to use IDs for locations to handle duplicate names / codes
+
+--
+
+Maintaining reordering in custom tables when options are changed
+
+--
+
+Plus more, including accessibility updates
 
 ---
 
